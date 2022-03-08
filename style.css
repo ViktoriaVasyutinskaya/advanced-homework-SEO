@@ -93,3 +93,10 @@ p {
 .email-link:hover {
   text-decoration: underline;
 }
+@media (max-width: 600px) {
+  h1,
+  h2,
+  h3 {
+    font-size: 20px;
+  }
+}
